@@ -32,4 +32,35 @@ An **administrator** can:
 - edit the content of the FAQ section;
 - **assign administrative roles** to other users, thereby expanding the application's management capabilities.
 
+## 💻 Programming Languages and Technologies
+
+This project was developed using the following languages and technologies:
+
+- **Java** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+- **Java Swing** (for building the graphical user interface)
+- **Argon2** (password hashing algorithm)
+- **JavaMail API** ![JavaMail](https://img.shields.io/badge/JavaMail-007396?style=flat&logo=java&logoColor=white)
+- **Apache Maven** ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+- **dotenv-java** (managing environment variables)
+- **MVC Architecture** (Model-View-Controller design pattern)
+- **PostgreSQL** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+- **JDBC** (Java Database Connectivity)
+- **DIA** (Diagram drawing application used for architecture design)
+
+## 🗂️ Conceptual Database Schema
+
+Below are the dedicated images illustrating the conceptual schema of the database used in this project:
+
+![Database Schema 1](path/to/your/image1.png)  
+*Description or caption for image 1.*
+
+![Database Schema 2](path/to/your/image2.png)  
+*Description or caption for image 2.*
+
+![Database Schema 2](path/to/your/image2.png)  
+*Description or caption for image 2.*
+
+![Database Schema 2](path/to/your/image2.png)  
+*Description or caption for image 2.*
+
 ---
