@@ -51,16 +51,16 @@ This project was developed using the following languages and technologies:
 
 Below are the dedicated images illustrating the conceptual schema of the database used in this project:
 
-![Database Schema 1](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20I.png)  
+![Database Part I](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20I.png)  
 *The first part of the conceptual schema presents the data associated with the user account, used for identification, login, and contact during registration and order confirmation.*
 
-![Database Schema 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20II.png)  
+![Database Part II](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20II.png)  
 *The second part of the conceptual schema shows how products are organized into categories to provide users with complete information and advanced filtering options. It also highlights the connection between users and their shopping carts.*
 
-![Database Schema 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20III.png)  
+![Database Part III](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20III.png)  
 *The third part focuses on storing user information, such as their home address, which is essential for direct product delivery. It also presents the Frequently Asked Questions (FAQ) menu, used to provide customers with 24/7 support.*
 
-![Database Schema 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20IV.png)  
+![Database Part IV](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20IV.png)  
 *The final part of the conceptual schema illustrates how credit card data is managed, which users use to make simulated payments for the products in their shopping cart.*
 
 ## 🎯 Use Case Diagram
@@ -89,40 +89,40 @@ Below are some screenshots of the Fast-Food Ordering Application, showcasing its
 ![Screenshot 5](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Product_details.png)  
 *This menu displays the types of smoothies available for preparation and delivery. Accessed via an advanced filter, it shows all ingredients used in each preparation.*
 
-![Screenshot 8](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Shawarma_menu.png)  
+![Screenshot 6](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Shawarma_menu.png)  
 *Users can filter products via the menu bar, reducing search time and allowing faster addition of desired items to the shopping cart.*
 
-![Screenshot 9](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Account%20menu.png)  
+![Screenshot 7](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Account%20menu.png)  
 *Administrators can manage products through a dedicated menu, filling in all required fields and selecting ingredients from a window. The account menu is also available, providing access to submenus with specific functionalities for each logged-in account.*
 
-![Screenshot 11](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Appearance/Appearance_settings.png)  
+![Screenshot 8](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Appearance/Appearance_settings.png)  
 *Through the appearance menu settings, administrators can manage each color available to connected users in real time, allowing them to add, delete, or modify any color detail.*
 
-![Screenshot 12](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Profile/Profile_menu.png)  
+![Screenshot 9](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Profile/Profile_menu.png)  
 *This submenu, part of the user account menu, allows users to update their account details, ensuring data complies with rules and remains unique. Users can also modify their delivery address for ordered products.*
 
-![Screenshot 13](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Roles/Roles_menu.png)  
+![Screenshot 10](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Roles/Roles_menu.png)  
 *Administrators can use the roles submenu to assign or change a user’s role between administrator and client. They can also edit the role description to inform users of the permissions and features associated with each role.*
 
-![Screenshot 14](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Questions_menu.png)  
+![Screenshot 11](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Questions_menu.png)  
 *The help or FAQ menu allows users to quickly find answers to common questions. Users simply select the question that matches their concern to receive the relevant information.*
 
-![Screenshot 15](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Question_settings_menu.png)  
+![Screenshot 12](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Question_settings_menu.png)  
 *Administrators can fully manage the FAQ submenu through a dedicated interface, allowing them to add, edit, or delete questions and their codes or titles.*
 
-![Screenshot 16](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Sample_answer.png)  
+![Screenshot 13](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Sample_answer.png)  
 *Each question can have one, multiple, or no answers. When a user selects a question, they are directed to the page to view the relevant answers.*
 
-![Screenshot 17](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Answer_settings_menu.png)  
+![Screenshot 14](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Answer_settings_menu.png)  
 *Similar to the questions menu, administrators have full control over the answers menu, allowing them to manage responses quickly and efficiently.*
 
-![Screenshot 18](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Shopping%20Cart/Shopping_cart.png)  
+![Screenshot 15](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Shopping%20Cart/Shopping_cart.png)  
 *Every registered user, regardless of role, has a unique shopping cart for adding products to purchase online using a credit card. Users can modify quantities or remove items from the cart.*
 
-![Screenshot 19](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Shopping%20Cart/Place_order.png)  
+![Screenshot 16](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Shopping%20Cart/Place_order.png)  
 *When placing an order, a user must select a saved card and choose a delivery method—either in-store pickup or home delivery to the address specified in their profile.*
 
-![Screenshot 20](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Email/Email_confirmation.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+![Screenshot 17](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Email/Email_confirmation.png)  
+*After placing an order, the shopping cart is cleared and a confirmation email is sent to the user.*
 
 ---
