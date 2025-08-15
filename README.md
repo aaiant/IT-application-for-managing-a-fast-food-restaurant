@@ -75,28 +75,22 @@ The following image illustrates the **use case diagram** for the Fast-Food Order
 Below are some screenshots of the Fast-Food Ordering Application, showcasing its graphical user interface (GUI) and key functionalities:
 
 ![Screenshot 1](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Login/Registration.png)  
-*Login and account management interface.*
+*This menu is designed to register customers who wish to place online orders through a user-friendly graphical interface. The system validates all data entered in the available fields, ensuring compliance with the rules and detecting any existing accounts with similar information.*
 
 ![Screenshot 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Login/Login.png)  
-*Main menu displaying available products and categories.*
+*On this page of the application, users can log in to their accounts and subsequently access all available menus. The login process utilizes the Argon2 algorithm to secure the data entered by the user, adhering to the highest security standards.*
 
 ![Screenshot 3](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Coffee.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*This image shows a section of the drinks menu after applying the filter Menu → Drinks → Coffees → Caffeinated Coffee. Each product displays key details (manufacturer, name, weight, label, and price). The appearance menu allows users to customize the interface, with hex codes provided for easy color selection.*
 
 ![Screenshot 4](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Product_details_2.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*This image shows the full caffeinated coffee menu with a different color scheme, highlighting user interface customization. It also displays the selected product’s ingredients, demonstrating transparency in line with food industry regulations.*
 
 ![Screenshot 5](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Product_details.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
-
-![Screenshot 6](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Add_product.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
-
-![Screenshot 7](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Add_product.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*This menu displays the types of smoothies available for preparation and delivery. Accessed via an advanced filter, it shows all ingredients used in each preparation.*
 
 ![Screenshot 8](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Shawarma_menu.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*Users can filter products via the menu bar, reducing search time and allowing faster addition of desired items to the shopping cart.*
 
 ![Screenshot 9](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Account%20menu.png)  
 *Frequently Asked Questions (FAQ) section and support interface.*
