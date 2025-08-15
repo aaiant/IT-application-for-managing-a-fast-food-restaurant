@@ -63,4 +63,75 @@ Below are the dedicated images illustrating the conceptual schema of the databas
 ![Database Schema 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20IV.png)  
 *The final part of the conceptual schema illustrates how credit card data is managed, which users use to make simulated payments for the products in their shopping cart.*
 
+## 🎯 Use Case Diagram
+
+The following image illustrates the **use case diagram** for the Fast-Food Ordering Application, showing the interactions between users, administrators, and the system:
+
+![Use Case Diagram](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/UML%20Diagram/Use_case_diagram.png)  
+*This diagram highlights how different users interact with the system, including account management, order placement, and administrative actions.*
+
+## 🖼️ Application Screenshots
+
+Below are some screenshots of the Fast-Food Ordering Application, showcasing its graphical user interface (GUI) and key functionalities:
+
+![Screenshot 1](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Login/Registration.png)  
+*Login and account management interface.*
+
+![Screenshot 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Login/Login.png)  
+*Main menu displaying available products and categories.*
+
+![Screenshot 3](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Coffee.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 4](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Product_details_2.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 5](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Product_details.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 6](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Add_product.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 7](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu/Add_product.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 8](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Shawarma_menu.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 9](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Account%20menu.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 10](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Order_placement_menu.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 11](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Appearance/Appearance_settings.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 12](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Profile/Profile_menu.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 13](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Roles/Roles_menu.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 14](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Questions_menu.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 15](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Question_settings_menu.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 16](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Sample_answer.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 17](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Answer_settings_menu.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 18](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Shopping%20Cart/Shopping_cart.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 19](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Shopping%20Cart/Place_order.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
+![Screenshot 20](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Email/Email_confirmation.png)  
+*Frequently Asked Questions (FAQ) section and support interface.*
+
 ---
