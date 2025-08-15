@@ -51,16 +51,16 @@ This project was developed using the following languages and technologies:
 
 Below are the dedicated images illustrating the conceptual schema of the database used in this project:
 
-![Database Schema 1](path/to/your/image1.png)  
-*Description or caption for image 1.*
+![Database Schema 1](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20I.png)  
+*The first part of the conceptual schema presents the data associated with the user account, used for identification, login, and contact during registration and order confirmation.*
 
-![Database Schema 2](path/to/your/image2.png)  
-*Description or caption for image 2.*
+![Database Schema 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20II.png)  
+*The second part of the conceptual schema shows how products are organized into categories to provide users with complete information and advanced filtering options. It also highlights the connection between users and their shopping carts.*
 
-![Database Schema 2](path/to/your/image2.png)  
-*Description or caption for image 2.*
+![Database Schema 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20III.png)  
+*The third part focuses on storing user information, such as their home address, which is essential for direct product delivery. It also presents the Frequently Asked Questions (FAQ) menu, used to provide customers with 24/7 support.*
 
-![Database Schema 2](path/to/your/image2.png)  
-*Description or caption for image 2.*
+![Database Schema 2](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/Database/Part%20IV.png)  
+*The final part of the conceptual schema illustrates how credit card data is managed, which users use to make simulated payments for the products in their shopping cart.*
 
 ---
