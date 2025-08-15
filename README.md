@@ -93,37 +93,34 @@ Below are some screenshots of the Fast-Food Ordering Application, showcasing its
 *Users can filter products via the menu bar, reducing search time and allowing faster addition of desired items to the shopping cart.*
 
 ![Screenshot 9](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Account%20menu.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
-
-![Screenshot 10](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Menu%20Bar/Order_placement_menu.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*Administrators can manage products through a dedicated menu, filling in all required fields and selecting ingredients from a window. The account menu is also available, providing access to submenus with specific functionalities for each logged-in account.*
 
 ![Screenshot 11](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Appearance/Appearance_settings.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*Through the appearance menu settings, administrators can manage each color available to connected users in real time, allowing them to add, delete, or modify any color detail.*
 
 ![Screenshot 12](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Profile/Profile_menu.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*This submenu, part of the user account menu, allows users to update their account details, ensuring data complies with rules and remains unique. Users can also modify their delivery address for ordered products.*
 
 ![Screenshot 13](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Roles/Roles_menu.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*Administrators can use the roles submenu to assign or change a user’s role between administrator and client. They can also edit the role description to inform users of the permissions and features associated with each role.*
 
 ![Screenshot 14](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Questions_menu.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*The help or FAQ menu allows users to quickly find answers to common questions. Users simply select the question that matches their concern to receive the relevant information.*
 
 ![Screenshot 15](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Question_settings_menu.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*Administrators can fully manage the FAQ submenu through a dedicated interface, allowing them to add, edit, or delete questions and their codes or titles.*
 
 ![Screenshot 16](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Sample_answer.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*Each question can have one, multiple, or no answers. When a user selects a question, they are directed to the page to view the relevant answers.*
 
 ![Screenshot 17](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Q%26A/Answer_settings_menu.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*Similar to the questions menu, administrators have full control over the answers menu, allowing them to manage responses quickly and efficiently.*
 
 ![Screenshot 18](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Shopping%20Cart/Shopping_cart.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*Every registered user, regardless of role, has a unique shopping cart for adding products to purchase online using a credit card. Users can modify quantities or remove items from the cart.*
 
 ![Screenshot 19](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Shopping%20Cart/Place_order.png)  
-*Frequently Asked Questions (FAQ) section and support interface.*
+*When placing an order, a user must select a saved card and choose a delivery method—either in-store pickup or home delivery to the address specified in their profile.*
 
 ![Screenshot 20](https://github.com/aaiant/IT-application-for-managing-a-fast-food-restaurant/blob/main/docs-images/App/Email/Email_confirmation.png)  
 *Frequently Asked Questions (FAQ) section and support interface.*
