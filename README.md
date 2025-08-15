@@ -1,35 +1,35 @@
 # 🍔 Fast-Food Ordering Application – Bachelor’s Thesis Project
 
-## 📄 Descriere generală
+## 📄 Overview
 
-Acest repository conține lucrarea de licență realizată în cadrul **Facultății de Matematică și Informatică**, specializarea **Informatică**, din cadrul **Universității Ovidius din Constanța**.
+This repository contains the bachelor’s thesis developed at the **Faculty of Mathematics and Computer Science**, majoring in **Computer Science**, at **Ovidius University of Constanța**.
 
-Lucrarea a presupus redactarea a peste **70 de pagini** și dezvoltarea unei **interfețe grafice** pentru un local de tip fast-food. Aplicația oferă funcționalități similare aplicațiilor comerciale precum **Spartan** sau **Glovo**, permițând utilizatorilor să:
+The thesis involved writing over **70 pages** and developing a **graphical user interface** for a fast-food restaurant. The application offers functionalities similar to commercial apps like **Spartan** or **Glovo**, allowing users to:
 
-- își creeze un cont;
-- plaseze comenzi online;
-- primească un **email de confirmare** cu detaliile comenzii.
+- create an account;
+- place online orders;
+- receive a **confirmation email** with the order details.
 
-## 👤 Funcționalități pentru utilizatori
+## 👤 User Features
 
-Utilizatorii obișnuiți beneficiază de o experiență intuitivă, având la dispoziție următoarele opțiuni:
+Regular users benefit from an intuitive experience, with access to the following features:
 
-- **Gestionarea contului personal**, inclusiv a informațiilor bancare și a coșului de cumpărături;
-- Acces la o secțiune de **întrebări frecvente (FAQ)**, unde pot găsi rapid răspunsuri la nelămuriri;
-- **Personalizarea interfeței** grafice prin alegerea culorilor preferate dintr-o paletă extinsă;
-- Vizualizarea **ingredientelor utilizate** în prepararea fiecărui produs;
-- Primirea unui **email de confirmare** după plasarea comenzii, cu lista completă a produselor.
+- **Managing their personal account data**, including banking information and shopping cart;
+- Access to a **Frequently Asked Questions (FAQ)** section to quickly find answers to common inquiries;
+- **Customizing the interface** by choosing preferred colors from an extensive palette;
+- Viewing detailed information about the **ingredients used** in the preparation of each product;
+- Receiving a **confirmation email** after placing an order, listing all purchased items.
 
-## 🔐 Sistem de roluri și administrare
+## 🔐 Role-Based Access and Administration
 
-Un element esențial al aplicației este **sistemul de roluri**, care introduce un strat suplimentar de control și funcționalitate pentru utilizatorii cu privilegii administrative.
+A key feature of the application is the implementation of a **role-based system** that provides extended control and functionalities for users with administrative privileges.
 
-Un **administrator** are posibilitatea de a:
+An **administrator** can:
 
-- adăuga, modifica sau șterge produse din platformă;
-- gestiona ingredientele produselor;
-- modifica paleta de culori disponibilă pentru personalizarea interfeței;
-- edita conținutul secțiunii de întrebări și răspunsuri (FAQ);
-- **atribui drepturi administrative** și altor utilizatori, extinzând astfel capacitatea de gestionare a aplicației.
+- add, modify, or remove products available on the platform;
+- manage the ingredients of products;
+- adjust the color palette available for interface customization;
+- edit the content of the FAQ section;
+- **assign administrative roles** to other users, thereby expanding the application's management capabilities.
 
 ---
